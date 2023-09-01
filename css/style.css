@@ -1,0 +1,184 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.green{
+	width: 800px;
+	height: 420px;
+	background: green;
+	position: relative;
+}
+
+.red{
+	width: 200px;
+	height: 200px;
+	background: red;
+    top: 24%;
+    right: 40%;
+    border-radius: 100%;
+    position: absolute;
+    z-index: 2;
+}
+
+
+
+.inst{
+	width: 150px;
+	position: fixed;
+	top: 18%;
+	right: -110px;
+    transition: 1.5s;
+}
+
+.inst:hover{
+	right: 2.5px;
+}
+
+.thd{
+	width: 150px;
+	position: fixed;
+	top: 24%;
+	right: -110px;
+    transition: 1.5s;
+}
+
+.thd:hover{
+	right: 3.5px;
+}
+
+.fb{
+	width: 150px;
+	position: fixed;
+	top: 31%;
+	right: -105px;
+    transition: 1.5s;
+}
+
+.fb:hover{
+	right: -2px;
+}
+
+.gmail{
+	width: 150px;
+	position: fixed;
+	top: 39%;
+	right: -102px;
+    transition: 1.5s;
+}
+
+.gmail:hover{
+	right: 2.4px;
+}
+
+.in{
+	width: 150px;
+	position: fixed;
+	top: 46%;
+	right: -105px;
+    transition: 1.5s;
+}
+
+.in:hover{
+	right: -2px;
+}
+
+.wp{
+	width: 150px;
+	position: fixed;
+	top: 54%;
+	right: -105px;
+    transition: 1.5s;
+}
+
+.wp:hover{
+	right: -2px;
+}
+
+.yt{
+	width: 150px;
+	position: fixed;
+	top: 62%;
+	right: -102px;
+    transition: 1.5s;
+}
+
+.yt:hover{
+	right: 2.5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
